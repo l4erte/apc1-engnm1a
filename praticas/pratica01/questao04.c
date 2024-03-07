@@ -20,6 +20,7 @@ int main() {
   printf("Preço inicial = %f\n", preco_inicial);
   printf("Preço final = %f\n", preco_final);
 
+  //warning para corrigir
   
   return 0;
 
